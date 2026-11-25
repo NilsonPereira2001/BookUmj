@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "BookUMJ",
+    "slug": "bookumj",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "backgroundColor": "#FFFFFF",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    }
+  }
+}
